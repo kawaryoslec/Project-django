@@ -1,2 +1,2 @@
 # Project-django
-projeto para praticar o framework django 
+projeto para praticar o framework django!!!!
